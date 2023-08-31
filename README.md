@@ -58,8 +58,8 @@ Version v1.0.1: Fixed e^(nx) derivative.
 
 **What was fixed in past releases**?  
 
-v1.0.1: Fixed e^(nx) derivative.  
-v1.0: First upload, featuring the mathematics section!  
+8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
+8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
 *(edited 8/31/23)*
 
