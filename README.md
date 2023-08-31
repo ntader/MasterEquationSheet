@@ -53,6 +53,6 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 - *Subtopics: (none listed)*
 - *Topics: Physics I-III, General Engineering Courses(Statics, Dynamics, Mech. of Materials), Chemistry*
-- *Appendix: Unit Conversions, General English Units, General Metric Units**
+- *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units* 
 
 (edited 8/30/23).
