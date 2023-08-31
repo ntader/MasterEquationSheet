@@ -11,7 +11,7 @@ This sheet contains equations used in engineering undergraduate classes from fre
 The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet.pdf).
 
 ## Looking forward
-* Ideally, this *could* become a hub for subject specific cheat-sheets/equation sheets (I.e. Calc I,II, Physics I, etc). However, I am just one writer and there are already a fair amount of good subject specific sheets out there. If you feel like a subject could use a sheet that doesn't have one yet, please leave a [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSf_Ul6LK3SoAwD1fWSKSIAGPCY3ctJZWpWQhVekjFJ4Jq8fMA/viewform?usp=sf_link). Once enough suggestions are received (and time is available) the committee and/or I will begin working on it.
+* Ideally, this *could* become a hub for subject specific cheat-sheets/equation sheets (I.e. Calc I,II, Physics I, etc). However, I am just one writer and there are already a fair amount of good subject specific sheets out there. If you feel like a subject could use a sheet that doesn't have one yet, please leave a [suggestion](https://docs.google.com/forms/d/e/1FAIpQLSf_Ul6LK3SoAwD1fWSKSIAGPCY3ctJZWpWQhVekjFJ4Jq8fMA/viewform?usp=sf_link) (you can also create a comment through github, which will probably get to me faster). Once enough suggestions are received (and time is available) the committee and/or I will begin working on it.
 
 ## FAQ
 
@@ -38,7 +38,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **This seems cool. Can I help?**   
 
-* Consider filling out the MES committee form! The committee will vote on if equations should be added, and discuss future sheets to be made.
+* Consider filling out the [MES committee form!](https://docs.google.com/forms/d/e/1FAIpQLSf_Ul6LK3SoAwD1fWSKSIAGPCY3ctJZWpWQhVekjFJ4Jq8fMA/viewform?usp=sf_link) The committee will vote on if equations should be added, and discuss future sheets to be made.
 
 
 
