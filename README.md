@@ -34,11 +34,6 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 
 
-**What if I'm stubborn and want to add those equations?**
-
-* Go for it! Every update to the sheet will also include the .docx file which you should be able to open and edit yourself. This was originally started as a resource for myself, but I quickly realized it could be used by many students. Each person will have their own needs, feel free to download it and edit the sheet as you please.
-
-
 
 
 **This seems cool. Can I help?**   
