@@ -21,7 +21,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 
 
-**How do you not have eqn X? It is a major part of Y!** 
+**How do you not have equation X? It is a major part of Y!** 
 
 * Each school has its own classes and syllabi. Because of this, I cannot guarantee that something covered in a class I took was covered in a class/topic you have or are currently taking/studying. That being said, I have added as much useful info to each subject that I think universally is beneficial. 
 
