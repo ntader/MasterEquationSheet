@@ -7,7 +7,7 @@ This sheet contains equations used in engineering undergraduate classes from fre
 
 ## Equation Sheet
 
-The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet.pdf).
+The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet.pdf).  
 Version v1.0.1: Fixed e^(nx) derivative.
 
 ## Looking forward
