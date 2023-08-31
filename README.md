@@ -56,10 +56,10 @@ Version v1.0.1: Fixed e^(nx) derivative.
 - *Topics: Physics I-III, General Engineering Courses(Statics, Dynamics, Mech. of Materials), Chemistry*
 - *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units* 
 
-(edited 8/30/23).
-
 **What was fixed in past releases**?  
 
 v1.0.1: Fixed e^(nx) derivative.  
 v1.0: First upload, featuring the mathematics section!  
+
+*(edited 8/31/23)*
 
