@@ -46,7 +46,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 * Everything was done on Apple Pages. Because of the built-in LaTeX editor + downloaded CMU font, it appears to be written in LaTeX (which I suppose is partially true). The logo was created in Procreate.
 
 **How long did this take?**
-* It took a few months to gather all the equations for classes from past professors and teachers, but in total no more than 20 hours.
+* It took a month or two to gather all the equations for classes from past professors and teachers, but in total no more than 20 hours.
 
 
 **What else is going to be added to the sheet?** 
