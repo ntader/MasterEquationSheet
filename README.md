@@ -57,3 +57,8 @@ Version v1.0.1: Fixed e^(nx) derivative.
 - *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units* 
 
 (edited 8/30/23).
+
+**What was fixed in past releases**?
+v1.0.1: Fixed e^(nx) derivative.  
+v1.0: First upload, featuring the mathematics section!  
+
