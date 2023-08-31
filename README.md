@@ -53,7 +53,7 @@ Version v1.0.1: Fixed e^(nx) derivative.
 **What else is going to be added to the sheet?** 
 
 - *Subtopics: (none listed)*
-- *Topics: Physics I-III, General Engineering Courses(Statics, Dynamics, Mech. of Materials), Chemistry*
+- *Topics: Physics I-III, General Engineering Courses (Statics, Dynamics, Mech. of Materials), Chemistry*
 - *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units* 
 
 **What was fixed in past releases**?  
