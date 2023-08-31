@@ -2,7 +2,7 @@
 ![IMG_0501](https://github.com/ntader/MasterEquationSheet/assets/141366829/0df68ff0-3dc6-4af0-8805-60996fbaed6b)
 
 
-**Current Version: 1.0** (8/30/23)
+**Current Version: 1.0.1** (8/30/23)
 
 This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and conversions are given at the end as well. Notes on each equation/principle added as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
