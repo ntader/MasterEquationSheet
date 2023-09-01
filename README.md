@@ -25,7 +25,7 @@ Version v1.0.1: Fixed e^(nx) derivative.
 
 * Each school has its own classes and syllabi. Because of this, I cannot guarantee that something covered in a class I took was covered in a class/topic you have or are currently taking/studying. That being said, I have added as much useful info to each subject that I think universally is beneficial. 
 
-* Also, keep in mind that this sheet is to serve as an *overall* reference for any STEM major/student. Because of this, diving too deep into major specific equations may make this list too long and irrelevant to the general public.
+* Also, keep in mind that this sheet is to serve as an *overall* reference for *any* STEM major/student. Because of this, diving too deep into major specific equations may make this list too long and irrelevant to the general public. Also, double check each topic! I try to avoid having duplicate equations, so an equation may be under a different topic.
 
 
 **Why does the intro only mention equations used in freshman-sophomore year?**
@@ -54,12 +54,13 @@ Version v1.0.1: Fixed e^(nx) derivative.
 
 - *Subtopics: (none listed)*
 - *Topics: Physics I-III, General Engineering Courses (Statics, Dynamics, Mech. of Materials), Chemistry*
-- *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units* 
+- *Appendix: Unit Conversions, Unit Circle, General English Units, General Metric Units*
+
 
 **What was fixed in past releases**?  
 
 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
-*(edited 8/31/23)*
+*(Last edited 9/1/23)*
 
