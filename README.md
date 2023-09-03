@@ -46,6 +46,10 @@ Version v1.0.1: Fixed e^(nx) derivative.
 
 * Everything was done on Apple Pages. Because of the built-in LaTeX editor + downloaded CMU font, it appears to be written in LaTeX (which I suppose is partially true). The logo was created in Procreate.
 
+**Why did you create the sheet?**  
+
+* I made it because I got tired of having to look across multiple equation sheets online. Hopefully this will help future students, as I wish I had something like this my first 2 years of school.
+
 **How long did this take?**
 * It took a month or two to gather all the equations for classes from past professors and teachers, but in total no more than 20 hours.
 
