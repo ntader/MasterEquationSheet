@@ -63,5 +63,5 @@ Version v1.0.1: Fixed e^(nx) derivative.
 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
-*(Last edited 9/1/23)*
+*(Last edited 9/5/23)*
 
