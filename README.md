@@ -60,7 +60,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **What was fixed in past releases**?  
 
-9/11/23 - v1.1a: Includes physics 1 and 2. Quantum mechanics (and heat/gas laws) will be coming soon.
+9/11/23 - v1.1a: Includes physics 1 and 2. Quantum mechanics (and heat/gas laws) will be coming soon.  
 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
