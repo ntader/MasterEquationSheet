@@ -36,11 +36,6 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 
 
-**This seems cool. Can I help?**   
-
-* Consider filling out the [MES committee form!](https://docs.google.com/forms/d/e/1FAIpQLSf_Ul6LK3SoAwD1fWSKSIAGPCY3ctJZWpWQhVekjFJ4Jq8fMA/viewform?usp=sf_link) The committee will vote on if equations should be added, and discuss future sheets to be made.
-
-
 
 **How did you create the sheet?**  
 
