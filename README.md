@@ -25,7 +25,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 * Each school has its own classes and syllabi. Because of this, I cannot guarantee that something covered in a class I took was covered in a class/topic you have or are currently taking/studying. That being said, I have added as much useful info to each subject that I think universally is beneficial. 
 
-* Also, keep in mind that this sheet is to serve as an *overall* reference for *any* STEM major/student. Because of this, diving too deep into major specific equations may make this list too long and irrelevant to the general public. Also, double check each topic! I try to avoid having too many duplicate equations, so an equation may be under a different topic/heading.
+* Also, double check each topic! I try to avoid having too many duplicate equations, so an equation may be under a different topic/heading.
 
 
 **Why does the intro only mention equations used in freshman-sophomore year?**
