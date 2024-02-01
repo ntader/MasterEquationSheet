@@ -3,7 +3,7 @@
 
 ### **Current Version: 1.2.1** (Released 1/31/24)
 
-This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and conversions are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
+This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and prefixes are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
 ## Equation Sheet
 
