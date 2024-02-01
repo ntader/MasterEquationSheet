@@ -55,11 +55,11 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **What was fixed in past releases**?  
 
-1/31/24 - v1.2.1: Fixed formatting issues
-1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle in the appendix.
-9/11/23 - v1.1a: Includes physics 1 and 2. 
-8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
-8/30/23 - v1.0: First upload, featuring the mathematics section!  
+* 1/31/24 - v1.2.1: Fixed formatting issues
+* 1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle in the appendix.
+* 9/11/23 - v1.1a: Includes physics 1 and 2. 
+* 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
+* 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
 *(Last edited 1/31/24)*
 
