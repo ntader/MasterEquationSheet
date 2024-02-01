@@ -7,7 +7,7 @@ This sheet contains equations used in engineering undergraduate classes from fre
 
 ## Equation Sheet
 
-The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet.pdf). It is recommended to bookmark the in-browser link, since it will always be the most recent version.  
+The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here]([https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet.pdf](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet%20v1.2.pdf)). It is recommended to bookmark the in-browser link, since it will always be the most recent version.  
 
 ## Looking forward
 
@@ -55,7 +55,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **What was fixed in past releases**?  
 
-1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle and other unit conversions in the appendix.
+1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle in the appendix.
 9/11/23 - v1.1a: Includes physics 1 and 2. 
 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 8/30/23 - v1.0: First upload, featuring the mathematics section!  
