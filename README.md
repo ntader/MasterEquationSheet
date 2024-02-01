@@ -1,7 +1,7 @@
 # Welcome to the MES (Master Equation Sheet) GitHub!
 ![IMG_0501](https://github.com/ntader/MasterEquationSheet/assets/141366829/0df68ff0-3dc6-4af0-8805-60996fbaed6b)
 
-### **Current Version: 1.2** (Released 1/31/24)
+### **Current Version: 1.2.1** (Released 1/31/24)
 
 This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and conversions are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
@@ -55,6 +55,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **What was fixed in past releases**?  
 
+1/31/24 - v1.2.1: Fixed formatting issues
 1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle in the appendix.
 9/11/23 - v1.1a: Includes physics 1 and 2. 
 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
