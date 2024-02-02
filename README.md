@@ -5,7 +5,7 @@
 
 This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and prefixes are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
-## Equation Sheet
+## Equation Sheets
 
 The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet%20v1.3.1%20Eqn's%20Only.pdf). It's recommended to bookmark this page and use the files at the top, since they will always be the most recent version (as opposed to a downloaded pdf).  
 
@@ -57,5 +57,5 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 * 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 * 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
-*(Last edited 2/1/24)*
+*(Last edited 2/2/24)*
 
