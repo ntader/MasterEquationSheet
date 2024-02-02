@@ -9,9 +9,6 @@ This sheet contains equations used in engineering undergraduate classes from fre
 
 The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet%20v1.3.1%20Eqn's%20Only.pdf). It is recommended to bookmark the in-browser link (or this page), since it will always be the most recent version.  
 
-## Looking forward
-
-* Ideally, this *could* become a hub for subject specific cheat-sheets/equation sheets (I.e. Calc I,II, Physics I, etc). However, I am just one writer and there are already a fair amount of good subject specific sheets out there. This is more meant as a massive compiling effort for equations you may run into/need to reference in the future.
 
 ## FAQ
 
