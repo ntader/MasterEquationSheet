@@ -51,7 +51,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 **What else is going to be added to the sheet?** 
 
 - *Subtopics: (none listed)*
-- *Topics: Chemistry (?)*
+- *Topics: Chemistry *
 - *Appendix: Unit Conversions, Periodic Table, General English Units, General Metric Units*
 
 
