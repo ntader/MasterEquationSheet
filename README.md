@@ -1,7 +1,7 @@
 # Welcome to the MES (Master Equation Sheet) GitHub!
 ![IMG_0501](https://github.com/ntader/MasterEquationSheet/assets/141366829/0df68ff0-3dc6-4af0-8805-60996fbaed6b)
 
-### **Current Version: 1.2.1** (Released 1/31/24)
+### **Current Version: 1.3** (Released 2/1/24)
 
 This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and prefixes are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
@@ -35,8 +35,6 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 
 
-
-
 **How did you create the sheet?**  
 
 * Everything was done on Apple Pages. Because of the built-in LaTeX editor + downloaded CMU font, it appears to be written in LaTeX (which I suppose is partially true). The logo was created in Procreate.
@@ -46,16 +44,21 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 * I made it because I got tired of having to look across multiple equation sheets online. Hopefully this will help future students, as I wish I had something like this my first 2 years of school.
 
 
+**Why is there such a big "Materials Engineering" section?**  
+* It's my major, so I have some bias towards it:)
+
+
 **What else is going to be added to the sheet?** 
 
 - *Subtopics: (none listed)*
-- *Topics: Chemistry (solid-state)*
+- *Topics: Chemistry (?)*
 - *Appendix: Unit Conversions, Periodic Table, General English Units, General Metric Units*
 
 
 **What was fixed in past releases**?  
 
-* 1/31/24 - v1.2.1: Fixed formatting issues
+* 2/1/24 - v1.3: Added Materials Engineering.
+* 1/31/24 - v1.2.1: Fixed formatting issues.
 * 1/31/24 - v1.2: Added a color system. Added physics III (intro to quantum mechanics), more physics II equations, dynamics, mechanics (of materials), and the unit circle in the appendix.
 * 9/11/23 - v1.1a: Includes physics 1 and 2. 
 * 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
