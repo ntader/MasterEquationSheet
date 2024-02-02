@@ -25,11 +25,6 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 * Also, double check each topic! I try to avoid having too many duplicate equations, so an equation may be under a different topic/heading.
 
 
-**Why does the intro only mention equations used in freshman-sophomore year?**
-
-* At the time of writing this, I only have knowledge/feel confident writing about classes freshman through sophomore year. As time goes on this will change, but I imagine the MES will not. Most high level classes start to get very major specific, and the goal is that most students could use at least 80% of the sheet. By adding those upper level equations, the sheet becomes more and more busy (which results in a lot of scrolling).
-
-
 
 
 **How did you create the sheet?**  
