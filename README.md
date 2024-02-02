@@ -65,5 +65,5 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 * 8/30/23 - v1.0.1: Fixed e^(nx) derivative.  
 * 8/30/23 - v1.0: First upload, featuring the mathematics section!  
 
-*(Last edited 1/31/24)*
+*(Last edited 2/1/24)*
 
