@@ -1,7 +1,7 @@
 # Welcome to the MES (Master Equation Sheet) GitHub!
 ![IMG_0501](https://github.com/ntader/MasterEquationSheet/assets/141366829/0df68ff0-3dc6-4af0-8805-60996fbaed6b)
 
-### **Current Version: 1.3.2** (Released 2/2/24)
+### **Current Version: 1.3.3** (Released 2/3/24)
 
 This sheet contains equations used in engineering undergraduate classes from freshman through sophomore year. Subjects include but are not limited to mathematics, physics, and general engineering. A list of scientific constants and prefixes are given at the end as well, in addition to notes on each equation/principle as necessary. Note that this sheet is not an exhaustive list, it is simply meant as an extra resource.
 
@@ -49,6 +49,7 @@ The master sheet can be downloaded from [here](https://github.com/ntader/MasterE
 
 **What was fixed in past releases**?  
 
+* 2/3/24 - v1.3.3: Fixed typos, added heat equations note on sign convention
 * 2/2/24 - v1.3.2: Fixed typo, added two strain equations to MatE section.
 * 2/1/24 - v1.3.1: Added diamond cubic lattice parameter.
 * 2/1/24 - v1.3: Added Materials Engineering.
