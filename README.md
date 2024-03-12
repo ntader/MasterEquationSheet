@@ -7,7 +7,7 @@ This sheet contains equations used in engineering undergraduate classes from fre
 
 ## Equation Sheets
 
-The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet%20v1.3.3%20Eqn's%20Only.pdf). It's recommended to bookmark this page and use the files at the top, since they will always be the most recent version (as opposed to a downloaded pdf).  
+The master sheet can be downloaded from [here](https://github.com/ntader/MasterEquationSheet/releases/tag/Master) or it can be viewed in-browser [here](https://github.com/ntader/MasterEquationSheet/blob/main/Master%20Sheet%20v1.3.4%20Equations%20Only.pdf). It's recommended to bookmark this page and use the files at the top, since they will always be the most recent version (as opposed to a downloaded pdf).  
 
 
 ## FAQ
